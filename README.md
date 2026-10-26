@@ -8,4 +8,5 @@ Knowledge Management Architect and Technical Documentation Specialist with 9+ ye
 
 ## CORE SKILLS
 - **Technical Documentation:** DITA/XML, Structured Authoring, API Documentation, User Guides, Installation Guides, Knowledge Bases
+- **Tools & Platforms:** Confluence, Jira, Git/GitHub, Markdown, Snagit
 
